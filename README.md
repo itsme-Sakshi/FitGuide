@@ -1,6 +1,6 @@
 <h1>FitGuide<h1>
 
-<p>FitGuide is a dynamic and interactive fitness website that provides a comprehensive guide to exercises for various body parts, such as shoulders, neck, chest, and more. The application allows users to explore a variety of exercises tailored to their selected body part. For each exercise, users can access graphical demonstrations and related YouTube videos to ensure proper form and technique.p<>
+<p>FitGuide is a dynamic and interactive fitness website that provides a comprehensive guide to exercises for various body parts, such as shoulders, neck, chest, and more. The application allows users to explore a variety of exercises tailored to their selected body part. For each exercise, users can access graphical demonstrations and related YouTube videos to ensure proper form and technique.</p>
 
 <h3>Features<h3>
 <ul>
